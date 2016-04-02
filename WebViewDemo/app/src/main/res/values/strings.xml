@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WebViewDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_web_app1">WebApp1Activity</string>
+    <string name="title_activity_web_app2">WebApp2Activity</string>
+</resources>
